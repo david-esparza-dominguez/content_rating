@@ -2,10 +2,6 @@
 import React, { Component } from 'react';
 import './ContentRating.css';
 
-this.state = {
-  likes: 0,
-  dislikes: 0
-};
 
 class ContentRating extends Component {
   constructor() {
